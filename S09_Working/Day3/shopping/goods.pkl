@@ -1,0 +1,17 @@
+(dp0
+S'T-shirt'
+p1
+I200
+sS'wine'
+p2
+I300
+sS'macbook'
+p3
+I8000
+sS'Suitcase'
+p4
+I600
+sS'perfume'
+p5
+I1000
+s.
